@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Chandan%20K&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20Blockchain%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Chandan%20K&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20MVC%20%7C%20JDBC%20%7C%20MySQL&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hey!+I'm+Chandan+K+%F0%9F%91%8B;Java+Full+Stack+Developer+in+the+Making;CGPA+8.88+%7C+VTU+CSE+2026+%F0%9F%8E%93;Building+things+that+actually+matter+%F0%9F%9A%80" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hey!+I'm+Chandan+K+%F0%9F%91%8B;Java+Full+Stack+Developer;CGPA+8.77+%7C+VTU+CSE+2026+%F0%9F%8E%93;Building+things+that+actually+matter+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <br/><br/>
 
@@ -24,16 +24,17 @@ public class ChandanK {
     String name        = "Chandan K";
     String location    = "BTM Layout, Bengaluru, Karnataka 🇮🇳";
     String education   = "B.E. Computer Science @ VTU (2022–2026)";
-    double cgpa        = 8.88;
-    String role        = "Java Full Stack Developer (Aspiring)";
+    double cgpa        = 8.77;
+    String role        = "Java Full Stack Developer";
 
-    String[] skills    = { "Java", "HTML", "CSS", "JavaScript", "MySQL" };
+    String[] skills    = { "Java", "Servlets", "JSP", "JDBC", "HTML", "CSS", "JavaScript", "MySQL" };
     String[] learning  = { "Spring Boot", "React.js", "System Design", "DSA" };
 
     String[] highlights = {
-        "Java Full Stack Intern (Feb 2026) 💼",
+        "Java Full Stack Intern @ Tap Academy (Feb 2026) 💼",
+        "Built MyntraDemo - Live E-Commerce Web App 🛍️",
         "Applying MVC Design Pattern in projects 🏗️",
-        "Passionate about scalable web apps ⚡"
+        "Passionate about scalable Java web apps ⚡"
     };
 
     String goal = "Contribute, grow, and build impactful solutions!";
@@ -47,7 +48,7 @@ public class ChandanK {
 | Degree | Institution | Board / University | Score | Year |
 |--------|------------|-------------------|-------|------|
 | 🎓 B.E. Computer Science | Dr Sri Sri Sri Shivakumar Mahaswamy College of Engineering, Nelamangala | VTU | **CGPA: 8.77 / 10** | 2022 – 2026 |
-| 📘 HSC (Class XII) | Toppers Pre University College, Holenarasipur | Karnataka Board | **82.3%** | 2020 – 2022 |
+| 📘 HSC (Class XII) | Toppers Pre University College, Holenarasipur | Karnataka Board | **83.2%** | 2020 – 2022 |
 | 📗 SSC (Class X) | Green Wood English School, Holenarasipur | Karnataka Board | **78.24%** | 2019 – 2020 |
 
 ---
@@ -63,16 +64,23 @@ public class ChandanK {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend & Database
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Servlets](https://img.shields.io/badge/Java%20Servlets-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Concepts & Tools
-![MVC](https://img.shields.io/badge/MVC%20Pattern-7c3aed?style=for-the-badge&logo=buffer&logoColor=white)
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=bitcoin&logoColor=F7931A)
+### Tools & Others
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### Concepts
+![MVC](https://img.shields.io/badge/MVC%20Pattern-7c3aed?style=for-the-badge&logo=buffer&logoColor=white)
+![OOPs](https://img.shields.io/badge/OOPs-7c3aed?style=for-the-badge&logo=buffer&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </div>
 
@@ -82,8 +90,8 @@ public class ChandanK {
 
 <div align="center">
 
-<a href="https://github.com/Chandan-1web/bharatvote-decentralized-e-voting-system">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chandan-1web&repo=bharatvote-decentralized-e-voting-system&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
+<a href="https://github.com/Chandan-1web/MyntraDemo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chandan-1web&repo=MyntraDemo&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/Chandan-1web/Portfolio">
@@ -94,25 +102,46 @@ public class ChandanK {
 
 <br/>
 
-### 🗳️ Decentralized Online Voting System &nbsp; *(Jan 2025 – Apr 2025)*
-> Blockchain-powered voting platform ensuring **secure, transparent, tamper-proof** elections
+### 🛍️ MyntraDemo — Java MVC E-Commerce Web Application &nbsp; *(Feb 2026 – Mar 2026)*
+> A fully functional e-commerce web application similar to Myntra — built from scratch using Java MVC architecture
 
-- ⛓️ Smart contract logic for vote casting & counting — no third-party interference
-- 🔐 Unique voter authentication to prevent duplicate voting
-- 🎨 User-friendly web interface using HTML, CSS & JavaScript
-- 🏗️ **Tech Stack:** HTML · CSS · JavaScript · Java / Node.js · Blockchain
-- 🌍 Removes centralized control for trustless, verifiable elections
+- 🔐 User Registration & Login with **HttpSession** based authentication
+- 🛒 Complete **Cart, Wishlist, Bag** management system
+- 📦 **Product listing** with categories and image handling
+- 💳 **Payment methods** and **Order management** modules
+- 🔒 **BCrypt** password hashing for secure authentication
+- 🌍 **Live Demo:** [myntrademo-v2.onrender.com](https://myntrademo-v2.onrender.com)
+- 🏗️ **Tech Stack:** Java · Servlets · JSP · JDBC · MySQL · HTML · CSS · JavaScript · Maven · Apache Tomcat
+
+---
+
+### 🌐 Personal Portfolio Website &nbsp; *(May 2026)*
+> A responsive developer portfolio website to showcase profile, projects, skills and achievements
+
+- 📱 **Responsive design** for desktop and mobile screens
+- 🌙 **Dark/Light mode** toggle using JavaScript
+- 🎨 Premium gradient colors with modern UI design
+- 📄 Resume download option
+- 🏗️ **Tech Stack:** HTML · CSS · Basic JavaScript · Responsive Web Design
 
 ---
 
 ## 💼 Experience & Training
 
 ```
-📌  Java Full Stack Web Development Intern          Feb 2026
-    ├── Practical knowledge in Data Structures & Algorithms
-    ├── Web Development (Frontend + Backend)
-    ├── Database Management (MySQL)
+📌  Java Full Stack Web Development Intern          Feb 2026 – Apr 2026
+    Tap Academy, Bengaluru
+    ├── Practical knowledge in Java Full Stack Development
+    ├── Web Development (Frontend + Backend using MVC)
+    ├── Database Management (MySQL + JDBC)
+    ├── Built real world projects using Servlets, JSP
     └── Problem-solving techniques & best practices
+
+📌  Advanced Java Full Stack Course                  Ongoing (Month 5/6)
+    Tap Academy, Bengaluru
+    ├── Advanced Java concepts — Servlets, JSP, JDBC
+    ├── Spring Boot, REST APIs
+    └── Modern full stack web development
 ```
 
 ---
@@ -136,11 +165,11 @@ public class ChandanK {
 
 ## 🌱 Currently
 
-- 🔭 Building **BharatVote** — Decentralized Voting on Blockchain
+- 🔭 Improving **MyntraDemo** — Adding new features
 - 📚 Deep-diving into **Spring Boot**, **REST APIs** & **System Design**
 - 🤝 Open to **collaborating** on Java / Full Stack projects
 - 💡 Exploring **open source contributions**
-- 🎯 **2026 Goal:** Graduate strong & land my first full-time dev role
+- 🎯 **2026 Goal:** Land first full-time Java Developer role
 
 ---
 
@@ -152,6 +181,7 @@ public class ChandanK {
 [![GitHub](https://img.shields.io/badge/GitHub-Chandan--1web-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chandan-1web)
 [![Email](https://img.shields.io/badge/Email-cheezechandu143@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cheezechandu143@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20Site-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Chandan-1web/Portfolio)
+[![Live Project](https://img.shields.io/badge/MyntraDemo-Live%20Project-green?style=for-the-badge&logo=render&logoColor=white)](https://myntrademo-v2.onrender.com)
 
 </div>
 
