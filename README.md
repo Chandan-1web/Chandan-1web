@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hey!+I'm+Chandan+K+%F0%9F%91%8B;Java+Full+Stack+Developer+in+the+Making;Blockchain+%26+Web+Tech+Enthusiast;CGPA+8.88+%7C+VTU+CSE+2026+%F0%9F%8E%93;Building+things+that+actually+matter+%F0%9F%9A%80" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hey!+I'm+Chandan+K+%F0%9F%91%8B;Java+Full+Stack+Developer+in+the+Making;CGPA+8.88+%7C+VTU+CSE+2026+%F0%9F%8E%93;Building+things+that+actually+matter+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <br/><br/>
 
@@ -31,7 +31,6 @@ public class ChandanK {
     String[] learning  = { "Spring Boot", "React.js", "System Design", "DSA" };
 
     String[] highlights = {
-        "Built a Blockchain-based Voting System 🗳️",
         "Java Full Stack Intern (Feb 2026) 💼",
         "Applying MVC Design Pattern in projects 🏗️",
         "Passionate about scalable web apps ⚡"
@@ -47,8 +46,8 @@ public class ChandanK {
 
 | Degree | Institution | Board / University | Score | Year |
 |--------|------------|-------------------|-------|------|
-| 🎓 B.E. Computer Science | Dr Sri Sri Sri Shivakumar Mahaswamy College of Engineering, Nelamangala | VTU | **CGPA: 8.88 / 10** | 2022 – 2026 |
-| 📘 HSC (Class XII) | Toppers Pre University College, Holenarasipur | Karnataka Board | **83.2%** | 2020 – 2022 |
+| 🎓 B.E. Computer Science | Dr Sri Sri Sri Shivakumar Mahaswamy College of Engineering, Nelamangala | VTU | **CGPA: 8.77 / 10** | 2022 – 2026 |
+| 📘 HSC (Class XII) | Toppers Pre University College, Holenarasipur | Karnataka Board | **82.3%** | 2020 – 2022 |
 | 📗 SSC (Class X) | Green Wood English School, Holenarasipur | Karnataka Board | **78.24%** | 2019 – 2020 |
 
 ---
