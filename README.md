@@ -190,8 +190,7 @@ Developed MyntraDemo e-commerce project end-to-end
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Chandan-1web&theme=midnight-purple&hide_border=true&background=0d1117&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chandan-1web&theme=midnight-purple&hide_border=true&background=0d1117)
 </div>
 
 ---
