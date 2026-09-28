@@ -26,7 +26,7 @@ public class ChandanK {
     String   education   = "B.E. Computer Science @ VTU (2022-2026)";
     double   cgpa        = 8.77;
     String   role        = "Java Full Stack Developer";
-    String   email       = "cheezechandu143@gmail.com";
+    String   email       = "chandan.in.dev@gmail.com";
     String   phone       = "+91-8317415917";
 
     String[] frontend    = { "HTML5", "CSS3", "JavaScript" };
